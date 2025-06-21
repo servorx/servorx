@@ -16,8 +16,8 @@
 
 - **Lenguajes**: JavaScript | C# | Python | SQL  
 - **Bases de datos**: PostgreSQL | MongoDB | MySQL  
-- **Herramientas**: GitHub | REST APIs | Linux 🐧  
-- **Diseño y Presentación**: Figma 🎨 | Canva |
+- **Herramientas**: GitHub | REST APIs | Linux 🐧   
+- **Diseño y Presentación**:  HTML, CSS | Figma 🎨 | Canva |
 
 ---
 
