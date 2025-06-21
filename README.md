@@ -3,7 +3,7 @@
 <h1 align="center">👋 ¡Hola! Soy <span style="color:#0099ff;">Ángel David Pinzón</span></h1>
 
 <p align="center">
-  <strong>Desarrollador backend | Aprendiz rápido | Apasionado por la tecnología y la filosofía</strong>
+  <strong>Desarrollador backend | Aprendiz rápido | Apasionado por la tecnología</strong>
 </p>
 
 <p align="center">
@@ -12,62 +12,27 @@
 
 ---
 
-<style>
-  .emoji-bounce {
-    display: inline-block;
-    animation: bounce 1.5s infinite;
-  }
-
-  @keyframes bounce {
-    0%, 100% {
-      transform: translateY(0);
-    }
-    50% {
-      transform: translateY(-8px);
-    }
-  }
-
-  .pulse {
-    animation: pulse 2s infinite;
-  }
-
-  @keyframes pulse {
-    0% {
-      transform: scale(1);
-    }
-    50% {
-      transform: scale(1.1);
-    }
-    100% {
-      transform: scale(1);
-    }
-  }
-</style>
-
 ## 🚀 <span class="emoji-bounce">Tech Stack & Tools</span>
 
-- **Lenguajes**: JavaScript | TypeScript | Python | SQL  
-- **Frameworks**: React ⚛️ | Node.js | Express.js  
+- **Lenguajes**: JavaScript | C# | Python | SQL  
 - **Bases de datos**: PostgreSQL | MongoDB | MySQL  
-- **Herramientas**: GitHub | Docker 🐳 | REST APIs | Linux 🐧  
-- **Diseño y Presentación**: Figma 🎨 | Canva | LaTeX 📄  
+- **Herramientas**: GitHub | REST APIs | Linux 🐧  
+- **Diseño y Presentación**: Figma 🎨 | Canva |
 
 ---
 
 ## 🌱 <span class="pulse">Actualmente aprendiendo</span>
 
 - Arquitectura limpia y testing avanzado  
-- Docker y despliegue de apps backend  
-- Mejores prácticas con Express.js  
-- Tipado fuerte con TypeScript  
-- Escritura rápida y precisa (⌨️ +95 WPM)
+- Docker y despliegue de apps backend   
+- Escritura rápida y precisa
+- Desarrollo de videoujuegos y aplicaciones de escritorio
 
 ---
 
 ## 💡 Intereses
 
-- Filosofía de la tecnología y ética en IA 🤖  
-- Debates y diplomacia (MUNs - ONU) 🌍  
+- Filosofía de la tecnología y ética  
 - Divulgación de ideas a través del diseño 🧠🎙️  
 - Resolver problemas reales con software útil 🧩
 
@@ -86,17 +51,8 @@ Estoy buscando colaborar en:
 
 ## 📫 Contáctame
 
-- 📧 **Email**: angelpinzon.dev@gmail.com  
-- 🐦 **Twitter/X**: [@servorx](https://twitter.com/servorx)  
+- 📧 **Email**: servor1230@gmail.com  
 - 💼 **LinkedIn**: [Ángel Pinzón](https://linkedin.com/in/angelpinzondev)  
-
----
-
-## ⚡ Fun Fact
-
-🎮 Inicié programando con juegos en PowerPoint,  
-📈 Logré escribir a 95+ WPM en menos de 10 días,  
-🧠 Y uso analogías filosóficas para estructurar sistemas.
 
 ---
 
