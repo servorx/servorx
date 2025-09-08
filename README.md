@@ -20,6 +20,12 @@
 
 ---
 
+## 👨‍💻 Sobre mí
+Soy desarrollador backend con experiencia en **C#, .NET, MySQL y React**, apasionado por construir soluciones de software que resuelvan problemas reales.  
+Me caracterizo por aprender rápido, aplicar buenas prácticas y mantener un enfoque en **arquitectura limpia, eficiencia y escalabilidad**.  
+
+---
+
 ## 💡 Intereses
 
 - Filosofía de la tecnología y ética  
